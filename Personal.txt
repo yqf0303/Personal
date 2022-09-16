@@ -1,0 +1,8 @@
+# NAME: Personal
+# AUTHOR: Me
+# REPO: 
+# UPDATED: 2022-08-05 22:37:45
+
+
+payload:
+  - DOMAIN-SUFFIX,pingcong.rocks
